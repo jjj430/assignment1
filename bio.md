@@ -1,6 +1,9 @@
 Hobbies:
 I like playing sports, reading, and learning new things.
-I live in Portland, Oregon
+More Info:
+I live in Portland, Oregon.
+
+
 
 Programming Background:
 I have taken CS 161, CS 162, CS 225, CS 350, CS 271.
